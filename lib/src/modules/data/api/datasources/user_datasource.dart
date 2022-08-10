@@ -13,7 +13,7 @@ class UserDatasource implements IUserDatasource {
   Future<List> getUsers() async {
     try {
       final response = await uno
-          .get('https://run.mocky.io/v3/63492f7f-1fdc-41a4-88dd-1deb1195d465');
+          .get('https://run.mocky.io/v3/fef6367b-65ac-491e-a2d2-2633eeb0c9e1');
       final list = response.data;
       return list;
     } on DataSoucePostException catch (e, s) {

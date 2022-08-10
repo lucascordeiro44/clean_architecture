@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/brq.lcordeiro/workspace/clean_arch/clean_archtecture/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/brq.lcordeiro/workspace/clean_architecture/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/brq.lcordeiro/workspace/clean_arch/clean_archtecture/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/brq.lcordeiro/workspace/clean_architecture/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

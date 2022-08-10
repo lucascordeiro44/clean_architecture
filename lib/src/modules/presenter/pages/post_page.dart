@@ -36,6 +36,7 @@ class _PostPageState extends State<PostPage> {
           itemBuilder: (context, index) {
             final post = state.posts[index];
             return ListTile(
+              
               trailing: CircleAvatar(
                 backgroundImage: NetworkImage(post.user.userPhoto),
               ),
